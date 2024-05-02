@@ -52,7 +52,7 @@ docutils==0.12
 entrypoints==0.2.2
 #ephem==3.7.6.0
 Flask==0.10.1
-Flask-Cors==2.1.2
+Flask-Cors==4.0.0
 futures==3.0.5
 fuzzywuzzy==0.10.0
 gevent==1.1.1
