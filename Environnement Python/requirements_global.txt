@@ -148,7 +148,7 @@ PyYAML==3.11
 pyzmq==15.2.0
 qtconsole==4.2.1
 queuelib==1.4.2
-requests==2.10.0
+requests==2.32.0
 requests-file==1.4
 rsa==3.4.2
 #scikit-image==0.12.3
