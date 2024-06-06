@@ -172,7 +172,7 @@ testpath==0.3
 Theano==0.8.2
 thefuck==3.9
 toolz==0.7.4
-tornado==4.3
+tornado==6.4.1
 traitlets==4.2.1
 Twisted==16.2.0
 tzlocal==1.2.2
