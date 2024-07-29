@@ -174,7 +174,7 @@ thefuck==3.9
 toolz==0.7.4
 tornado==4.3
 traitlets==4.2.1
-Twisted==16.2.0
+Twisted==24.3.0
 tzlocal==1.2.2
 untokenize==0.1.1
 uuid==1.30
